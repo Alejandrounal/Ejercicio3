@@ -19,7 +19,6 @@ public class Universidad {
        this.estudiantes = new ArrayList<Estudiante>();
        this.modulos = new ArrayList<Modulo>();
     }
-
   
     
     
